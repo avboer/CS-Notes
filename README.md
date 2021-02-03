@@ -25,7 +25,6 @@
 - [剑指 Offer 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/剑指%20Offer%20题解%20-%20目录.md)
 - [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20题解%20-%20目录.md)
 - [算法](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
-- [字节跳动内推](assets/内推.md)
 
 ## :computer: 操作系统
 
@@ -90,9 +89,13 @@
 
 在线排版工具：[Text-Typesetting](https://github.com/CyC2018/Text-Typesetting)。
 
+如果有兴趣一起探讨，可以加入学习交流群与同好进行交流，欢迎大家的分享。
+
+<img src="C:\Users\root\AppData\Roaming\Typora\typora-user-images\image-20210203211630456.png" alt="image-20210203211630456" style="zoom:33%;" />
+
 ### License
 
-本仓库的内容不是将网上的资料随意拼凑而来，除了少部分引用书上和技术文档的原文（这部分内容都在末尾的参考链接中加了出处），其余都是我的原创。在您引用本仓库内容或者对内容进行修改演绎时，请署名并以相同方式共享，谢谢。
+本仓库的内容不是将网上的资料随意拼凑而来，除了少部分引用书上和技术文档的原文（这部分内容都在末尾的参考链接中加了出处），其余都是git原作者CYC2018的原创。在您引用本仓库内容或者对内容进行修改演绎时，请署名并以相同方式共享，谢谢。
 
 转载文章请在开头明显处标明该页面地址，公众号等其它转载请联系 zhengyc101@163.com。
 
@@ -102,7 +105,7 @@ Logo：[logomakr](https://logomakr.com/)
 
 ### 致谢
 
-感谢以下人员对本仓库做出的贡献，当然不仅仅只有这些贡献者，这里就不一一列举了。如果你希望被添加到这个名单中，并且提交过 Issue 或者 PR，请与我联系。
+感谢以下人员对本仓库做出的贡献，当然不仅仅只有这些贡献者，这里就不一一列举了。如果你希望被添加到这个名单中，并且提交过 Issue 或者 PR，请与原作者CYC2018联系。
 
 <a href="https://github.com/linw7">
     <img src="https://avatars3.githubusercontent.com/u/21679154?s=400&v=4" width="50px">
