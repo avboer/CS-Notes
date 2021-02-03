@@ -91,7 +91,7 @@
 
 如果有兴趣一起探讨，可以加入学习交流群与同好进行交流，欢迎大家的分享。
 
-![](https://img.imgdb.cn/item/601aa6c83ffa7d37b304b8a8.jpg)
+<img src="https://img.imgdb.cn/item/601aa6c83ffa7d37b304b8a8.jpg">
 
 ### License
 
